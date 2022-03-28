@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SungWonHwang ❤️Beginner Developer❤️
+- 👋 Hi, I’m @SungWonHwang
 - 👀 GAME
 - 🌱 I'm interested in C++, Unreal, Unity, Pygame
 
