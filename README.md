@@ -1,3 +1,4 @@
+
 - 👋 Hi, I’m @SungWonHwang
 - 👀 GAME
 
@@ -5,5 +6,10 @@
 
 <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"> <img src="https://img.shields.io/badge/Unity-002244?style=for-the-badge&logo=Unity&logoColor=white">
 
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
 @KHU DIGITAL CONTENTS(2019) & SOFTWARE(2021)
+  
+![HSW's GitHub stats](https://github-readme-stats.vercel.app/api?username=SungWonHwang&show_icons=true&theme=highcontrast)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SungWonHwang&layout=compact&theme=highcontrast)
