@@ -1,6 +1,6 @@
 
  <h1> 👋 Hi, I’m @SungWonHwang</h1>
-**@KHU DIGITAL CONTENTS(2019) & SOFTWARE(2021)**
+ **@KHU DIGITAL CONTENTS(2019) & SOFTWARE(2021)**
  
  **GAME DEVELOPER**
  
