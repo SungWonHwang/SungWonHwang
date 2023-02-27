@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"> <img src="https://img.shields.io/badge/Unity-002244?style=for-the-badge&logo=Unity&logoColor=white">
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 <h3> ⚡ Stats</h3>
