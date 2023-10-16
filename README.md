@@ -3,7 +3,7 @@
 
  **@KHU DIGITAL CONTENTS(2019) & SOFTWARE(2021)**
  
- **GAME DEVELOPER**
+ **SW DEVELOPER**
  
  <h3> ⭐ Skill</h3>
 
