@@ -4,6 +4,16 @@
  **@KHU DIGITAL CONTENTS(2019) & SOFTWARE(2021)**
  
  **SW DEVELOPER**
+
+ 
+
+<h3>⬇️ CHECK MY PORTFOLIO 😆</h3>
+
+  [Click! Notion Portfolio](https://swonportfolio.notion.site/927a2fd52d73444880e86f52629432a7?pvs=4)
+
+
+
+  
  
  <h3> ⭐ Skill</h3>
 
